@@ -17,7 +17,7 @@ I am Currently an undergraduate student of Computer Engineering at Amirkabir Uni
 
 **AI mini projects**
 
-In 2021’s summer, I spent my summer internship at [AIMedic] (https://aimedic.co), an AI-based company that works in the medical field. Throughout the first phase of the training, I learned about the basics of machine learning and the principles of model building. The syllabus included regression, convolutional neural networks, semantic segmentation, and how to work with relevant frameworks such as Keras and TensorFlow. Assignments regarding these subjects were assigned to the trainees as mini-projects. You can view the complete source code [here] (https://github.com/zahrasalarian/AI-Mini-Projects).
+In 2021’s summer, I spent my summer internship at [AIMedic](https://aimedic.co), an AI-based company that works in the medical field. Throughout the first phase of the training, I learned about the basics of machine learning and the principles of model building. The syllabus included regression, convolutional neural networks, semantic segmentation, and how to work with relevant frameworks such as Keras and TensorFlow. Assignments regarding these subjects were assigned to the trainees as mini-projects. You can view the complete source code [here](https://github.com/zahrasalarian/AI-Mini-Projects).
 
 **EEG signal** 
 
@@ -31,8 +31,8 @@ After that, top trainees got hired as artificial intelligence developers. I got 
 
 **Visualizing network graph**
 
-When I was a trainee at [Metodata] (http://metodata.ai), a Data Science company, I worked with a massive amount of data gathered from Twitter. Tasks assigned to me were of two types: extracting detailed information about things such as most mentioned sites in the tweets, most frequent unigram and bigram collocations in the tweets, and most mentioned and retweeted accounts ranking. The other task was to figure out the relations between accounts (based on how much they retweeted and mentioned each other) and plot the graph of their connections using [Gephi] (https://gephi.org) to make it easier to comprehend the extracted information.
+When I was a trainee at [Metodata](http://metodata.ai), a Data Science company, I worked with a massive amount of data gathered from Twitter. Tasks assigned to me were of two types: extracting detailed information about things such as most mentioned sites in the tweets, most frequent unigram and bigram collocations in the tweets, and most mentioned and retweeted accounts ranking. The other task was to figure out the relations between accounts (based on how much they retweeted and mentioned each other) and plot the graph of their connections using [Gephi](https://gephi.org) to make it easier to comprehend the extracted information.
 
 ***Hesaba experience:***
 
-At the beginning of my interest in AI, I enrolled in an internship program offered by [Hesaba] (https://www.linkedin.com/company/hesaba/), a data-driven company. During this internship, I gained experience analyzing different datasets such as Covid-19 data from Johns Hopkins University, records of football matches, and classical literature. I also practiced writing visual reports in Markdown format, and for the final project, I trained a model for homicide vs. suicide classification using the H2O platform.
+At the beginning of my interest in AI, I enrolled in an internship program offered by [Hesaba](https://www.linkedin.com/company/hesaba/), a data-driven company. During this internship, I gained experience analyzing different datasets such as Covid-19 data from Johns Hopkins University, records of football matches, and classical literature. I also practiced writing visual reports in Markdown format, and for the final project, I trained a model for homicide vs. suicide classification using the H2O platform.
