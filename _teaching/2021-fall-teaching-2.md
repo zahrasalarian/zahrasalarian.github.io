@@ -10,11 +10,3 @@ location: "Tehran, Iran"
 
 Under supervision of [Professor Bagheri](https://aut.ac.ir/cv/2072/Alireza%20Bagheri)
 
-<!-- Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
