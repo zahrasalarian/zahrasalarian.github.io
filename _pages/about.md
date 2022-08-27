@@ -14,11 +14,11 @@ I am Currently an undergraduate student of Computer Engineering at Amirkabir Uni
 
 * **AIMedic experience:** <br/>
 
-* **AI mini projects** 
+* **AI mini projects** <br/>
 
 In 2021’s summer, I spent my summer internship at [AIMedic](https://aimedic.co), an AI-based company that works in the medical field. Throughout the first phase of the training, I learned about the basics of machine learning and the principles of model building. The syllabus included regression, convolutional neural networks, semantic segmentation, and how to work with relevant frameworks such as Keras and TensorFlow. Assignments regarding these subjects were assigned to the trainees as mini-projects. You can view the complete source code [here](https://github.com/zahrasalarian/AI-Mini-Projects).
 
-* **EEG signal** 
+* **EEG signal** <br/>
 
 The following internship phase started after selecting some top trainees. I joined the signal processing team and worked on developing a PyTorch-based program that employs EEG signals to predict epileptic seizures. It was a valuable experience as it helped me improve my team-working skills and put me into situations in which I was more accountable. Managing time to keep up with the team members, completing tasks assigned to me during a sprint, and presenting the results to the whole team and scrum master, were some of the most invaluable soft skills I gained from this internship phase.
 
