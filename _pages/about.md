@@ -12,11 +12,11 @@ I am Currently an undergraduate student of Computer Engineering at Amirkabir Uni
 
 # Research and Development Experiences
 
-* **AIMedic experience:** <br/>
+**AIMedic experience:**
 
 * **AI mini projects** <br/>
 
-In 2021’s summer, I spent my summer internship at [AIMedic](https://aimedic.co), an AI-based company that works in the medical field. Throughout the first phase of the training, I learned about the basics of machine learning and the principles of model building. The syllabus included regression, convolutional neural networks, semantic segmentation, and how to work with relevant frameworks such as Keras and TensorFlow. Assignments regarding these subjects were assigned to the trainees as mini-projects. You can view the complete source code [here](https://github.com/zahrasalarian/AI-Mini-Projects).
+In 2021’s summer, I spent my summer internship at [AIMedic](https://aimedic.co), an AI-based company that works in the medical field. Throughout the first phase of the training, I learned about the basics of machine learning and the principles of model building. The syllabus included regression, convolutional neural networks, semantic segmentation, and how to work with relevant frameworks such as Keras and TensorFlow. Assignments regarding these subjects were given to the trainees as mini-projects. You can view the complete source code [here](https://github.com/zahrasalarian/AI-Mini-Projects).
 
 * **EEG signal** <br/>
 
