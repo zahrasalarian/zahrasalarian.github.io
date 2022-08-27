@@ -23,9 +23,9 @@ The following phase of the internship started after selecting some top trainees.
 After that, top trainees got hired as artificial intelligence developers. I got into the Mammography team to boost my proficiency in image processing. As a team member, my tasks mainly consisted of two parts; first, searching for different datasets of breast images, including various formats such as DICOM and related papers on how to preprocess and train a model on them. Second, employing the mentioned preprocessing technics and training the convolutional neural networks such as VGG-16 and LSTM, using those images, to get adequate numbers for precision and recall on automatic breast cancer detection.
 
 **Metodata experience**
-* **Visualizing network graph** <br/>
+## Visualizing network graph
 When I was a trainee at [Metodata](http://metodata.ai), a Data Science company, I worked with a massive amount of data gathered from Twitter. Tasks assigned to me were of two types: extracting detailed information about things such as most mentioned sites in the tweets, most frequent unigram and bigram collocations in the tweets, and most mentioned and retweeted accounts ranking. The other task was to figure out the relations between accounts (based on how much they retweeted and mentioned each other) and plot the graph of their connections using [Gephi](https://gephi.org) to make it easier to comprehend the extracted information.
 
 **Hesaba experience**
-* **Data analysis and presentation** <br/>
+**Data analysis and presentation**
 At the beginning of my interest in AI, I enrolled in an internship program offered by [Hesaba](https://www.linkedin.com/company/hesaba/), a data-driven company. During this internship, I gained experience analyzing different datasets such as Covid-19 data from Johns Hopkins University, records of football matches, and classical literature. I also practiced writing visual reports in Markdown format, and for the final project, I trained a model for homicide vs. suicide classification using the H2O platform.
